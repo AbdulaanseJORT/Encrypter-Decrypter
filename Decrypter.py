@@ -5,7 +5,6 @@ from tkinter import ttk
 root = tk.Tk()
 root.geometry("800x285")
 
-icon = tk.PhotoImage(file="assets/icon.png")
 root.title("NSD")
 root.iconphoto(False, icon)
 
